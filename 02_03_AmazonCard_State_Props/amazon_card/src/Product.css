@@ -1,0 +1,12 @@
+.product {
+    background-color: rgb(33, 129, 238);
+    display: flex;
+    border-radius: 20px;
+    height: 208px;
+    justify-content: center;
+    align-items: center;
+    width: 242px;
+    border: 1px solid #211f1f;
+    margin: 10px;
+    flex-direction: column;
+}
